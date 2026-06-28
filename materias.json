@@ -1,0 +1,100 @@
+[
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b85'),
+    codigo: 'MDB101',
+    nombre: 'Bases de Datos No Relacionales',
+    uv: NumberInt('4'),
+    ciclo: NumberInt('1'),
+    area: 'Base de Datos',
+    prerrequisitos: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b86'),
+    codigo: 'PRW201',
+    nombre: 'Desarrollo de Aplicaciones Web',
+    uv: NumberInt('5'),
+    ciclo: NumberInt('2'),
+    area: 'Programación',
+    prerrequisitos: [
+      'MDB101'
+    ],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b87'),
+    codigo: 'ADS301',
+    nombre: 'Análisis y Diseño de Sistemas',
+    uv: NumberInt('4'),
+    ciclo: NumberInt('2'),
+    area: 'Ingeniería de Software',
+    prerrequisitos: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b95'),
+    codigo: 'FC101',
+    nombre: 'Fundamentos de Cocina',
+    uv: NumberInt('4'),
+    ciclo: NumberInt('1'),
+    area: 'Gastronomía',
+    prerequisitos: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b96'),
+    codigo: 'CI201',
+    nombre: 'Cocina Internacional',
+    uv: NumberInt('5'),
+    ciclo: NumberInt('2'),
+    area: 'Gastronomía',
+    prerequisitos: [
+      'FC101'
+    ],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b97'),
+    codigo: 'IL101',
+    nombre: 'Introducción a la Logística',
+    uv: NumberInt('4'),
+    ciclo: NumberInt('1'),
+    area: 'Logística',
+    prerequisitos: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b98'),
+    codigo: 'GA201',
+    nombre: 'Gestión Aduanera',
+    uv: NumberInt('5'),
+    ciclo: NumberInt('2'),
+    area: 'Aduanas',
+    prerequisitos: [
+      'IL101'
+    ],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b99'),
+    codigo: 'IT101',
+    nombre: 'Introducción al Turismo',
+    uv: NumberInt('4'),
+    ciclo: NumberInt('1'),
+    area: 'Turismo',
+    prerequisitos: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b9a'),
+    codigo: 'GST201',
+    nombre: 'Gestión de Servicios Turísticos',
+    uv: NumberInt('5'),
+    ciclo: NumberInt('2'),
+    area: 'Turismo',
+    prerequisitos: [
+      'IT101'
+    ],
+    activo: true
+  }
+]

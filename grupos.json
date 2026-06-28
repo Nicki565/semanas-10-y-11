@@ -1,0 +1,94 @@
+[
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b88'),
+    codigo_grupo: 'MDB101-G01',
+    materia_codigo: 'MDB101',
+    docente_email: 'carlos.ramirez@institucion.edu.sv',
+    ciclo: 'I-2026',
+    turno: 'Matutino',
+    aula: 'Lab-01',
+    cupo_maximo: NumberInt('30'),
+    horario: [
+      {
+        dia: 'Lunes',
+        hora_inicio: '08:00',
+        hora_fin: '09:40'
+      },
+      {
+        dia: 'Miércoles',
+        hora_inicio: '08:00',
+        hora_fin: '09:40'
+      }
+    ],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b89'),
+    codigo_grupo: 'PRW201-G01',
+    materia_codigo: 'PRW201',
+    docente_email: 'ana.martinez@institucion.edu.sv',
+    ciclo: 'I-2026',
+    turno: 'Vespertino',
+    aula: 'Lab-02',
+    cupo_maximo: NumberInt('25'),
+    horario: [
+      {
+        dia: 'Martes',
+        hora_inicio: '01:00',
+        hora_fin: '03:00'
+      },
+      {
+        dia: 'Jueves',
+        hora_inicio: '01:00',
+        hora_fin: '03:00'
+      }
+    ],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee835'),
+    codigo_grupo: 'ADS301-G01',
+    materia_codigo: 'ADS301',
+    docente_email: 'carlos.ramirez@institucion.edu.sv',
+    ciclo: 'II-2026',
+    turno: 'Matutino',
+    aula: 'Lab-03',
+    cupo_maximo: NumberInt('30'),
+    horario: [
+      {
+        dia: 'Lunes',
+        hora_inicio: '10:00',
+        hora_fin: '11:40'
+      },
+      {
+        dia: 'Miércoles',
+        hora_inicio: '10:00',
+        hora_fin: '11:40'
+      }
+    ],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee836'),
+    codigo_grupo: 'PRW201-G02',
+    materia_codigo: 'PRW201',
+    docente_email: 'ana.martinez@institucion.edu.sv',
+    ciclo: 'II-2026',
+    turno: 'Vespertino',
+    aula: 'Lab-04',
+    horario: [
+      {
+        dia: 'Lunes',
+        hora_inicio: '10:00',
+        hora_fin: '11:40'
+      },
+      {
+        dia: 'Miércoles',
+        hora_inicio: '10:00',
+        hora_fin: '11:40'
+      }
+    ],
+    activo: true,
+    cupo_maximo: NumberInt('25')
+  }
+]

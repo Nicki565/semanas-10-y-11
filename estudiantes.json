@@ -1,0 +1,515 @@
+[
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b83'),
+    carnet: '2026-DS-001',
+    nombres: 'José Miguel',
+    apellidos: 'Hernández Pérez',
+    fecha_nacimiento: ISODate('2005-03-12T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'jose.hernandez@alumno.edu.sv',
+    telefono: '7011-2233',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'La Unión',
+      detalle: 'Colonia El Centro, casa #12'
+    },
+    carrera_codigo: 'TIDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b84'),
+    carnet: '2026-DS-002',
+    nombres: 'María Fernanda',
+    apellidos: 'Castro Rivera',
+    fecha_nacimiento: ISODate('2004-11-08T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'maria.castro@alumno.edu.sv',
+    telefono: '7099-8877',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'San Miguel',
+      detalle: 'Residencial Las Flores'
+    },
+    carrera_codigo: 'TIDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba0'),
+    carnet: '2026-DS-003',
+    nombres: 'Carlos Alfredo',
+    apellidos: 'Mendoza Cruz',
+    fecha_nacimiento: ISODate('2005-11-05T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'carlos.mendoza@alumno.edu.sv',
+    telefono: '7133-4455',
+    direccion: {
+      departamento: 'Usulután',
+      municipio: 'Usulután',
+      detalle: 'Residencial Los Arcos, Calle #2'
+    },
+    carrera_codigo: 'TIDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba1'),
+    carnet: '2026-DS-004',
+    nombres: 'Ana Beatriz',
+    apellidos: 'Rivas Quintanilla',
+    fecha_nacimiento: ISODate('2006-01-18T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'ana.rivas@alumno.edu.sv',
+    telefono: '7844-5566',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'Conchagua',
+      detalle: 'Caserío El Faro, Calle Principal'
+    },
+    carrera_codigo: 'TIDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba2'),
+    carnet: '2026-DS-005',
+    nombres: 'Luis Alonso',
+    apellidos: 'Martínez Orellana',
+    fecha_nacimiento: ISODate('2005-05-30T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'luis.martinez@alumno.edu.sv',
+    telefono: '7255-6677',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'Chinameca',
+      detalle: 'Barrio San Juan, casa #45'
+    },
+    carrera_codigo: 'TIDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba3'),
+    carnet: '2026-DS-006',
+    nombres: 'Néstor Alejandro',
+    apellidos: 'Guzmán Amaya',
+    fecha_nacimiento: ISODate('2005-09-14T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'nestor.guzman@alumno.edu.sv',
+    telefono: '7411-8899',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'San Miguel',
+      detalle: 'Colonia El Sitio, Pasaje 3, casa #15'
+    },
+    carrera_codigo: 'TIDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba4'),
+    carnet: '2026-DS-007',
+    nombres: 'Diana Marcela',
+    apellidos: 'Quinteros Ortiz',
+    fecha_nacimiento: ISODate('2006-02-28T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'diana.quinteros@alumno.edu.sv',
+    telefono: '7922-0044',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'Conchagua',
+      detalle: 'Barrio El Centro, frente al parque'
+    },
+    carrera_codigo: 'TIDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba5'),
+    carnet: '2026-IS-001',
+    nombres: 'Kevin Josué',
+    apellidos: 'Alvarado Benítez',
+    fecha_nacimiento: ISODate('2004-09-14T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'kevin.alvarado@alumno.edu.sv',
+    telefono: '7966-7788',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'San Miguel',
+      detalle: 'Colonia Milagro de la Paz'
+    },
+    carrera_codigo: 'IDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba6'),
+    carnet: '2026-IS-002',
+    nombres: 'Gabriela Michelle',
+    apellidos: 'Fuentes Segovia',
+    fecha_nacimiento: ISODate('2005-02-27T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'gabriela.fuentes@alumno.edu.sv',
+    telefono: '7377-8899',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'Santa Rosa de Lima',
+      detalle: 'Barrio El Centro, casa #8'
+    },
+    carrera_codigo: 'IDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba7'),
+    carnet: '2026-IS-003',
+    nombres: 'David Edgardo',
+    apellidos: 'Romero Portillo',
+    fecha_nacimiento: ISODate('2004-12-01T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'david.romero@alumno.edu.sv',
+    telefono: '7488-9900',
+    direccion: {
+      departamento: 'Morazán',
+      municipio: 'San Francisco Gotera',
+      detalle: 'Colonia Vista Hermosa'
+    },
+    carrera_codigo: 'IDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba8'),
+    carnet: '2026-IS-004',
+    nombres: 'Valeria Alexandra',
+    apellidos: 'Mejía Claros',
+    fecha_nacimiento: ISODate('2005-08-10T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'valeria.mejia@alumno.edu.sv',
+    telefono: '7699-0011',
+    direccion: {
+      departamento: 'Usulután',
+      municipio: 'Santiago de María',
+      detalle: 'Final 4a Calle Poniente'
+    },
+    carrera_codigo: 'IDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7ba9'),
+    carnet: '2026-IS-005',
+    nombres: 'Diego Alejandro',
+    apellidos: 'Vásquez Melgar',
+    fecha_nacimiento: ISODate('2005-04-25T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'diego.vasquez@alumno.edu.sv',
+    telefono: '7011-3344',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'El Tránsito',
+      detalle: 'Barrio Las Delicias'
+    },
+    carrera_codigo: 'IDS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7baa'),
+    carnet: '2026-TG-001',
+    nombres: 'Camila Belén',
+    apellidos: 'Villalobos Díaz',
+    fecha_nacimiento: ISODate('2006-02-14T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'camila.villalobos@alumno.edu.sv',
+    telefono: '7522-4455',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'San Miguel',
+      detalle: 'Colonia Ciudad Jardín, Calle C'
+    },
+    carrera_codigo: 'TGAS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bab'),
+    carnet: '2026-TG-002',
+    nombres: 'Fernando José',
+    apellidos: 'Arias Guillén',
+    fecha_nacimiento: ISODate('2005-10-09T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'fernando.arias@alumno.edu.sv',
+    telefono: '7133-5566',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'La Unión',
+      detalle: 'Colonia San Carlos'
+    },
+    carrera_codigo: 'TGAS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bac'),
+    carnet: '2026-TG-003',
+    nombres: 'Sofía Abigail',
+    apellidos: 'Campos Machado',
+    fecha_nacimiento: ISODate('2006-05-03T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'sofia.campos@alumno.edu.sv',
+    telefono: '7844-6677',
+    direccion: {
+      departamento: 'Usulután',
+      municipio: 'Jiquilisco',
+      detalle: 'Puerto El Triunfo, casa #3'
+    },
+    carrera_codigo: 'TGAS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bad'),
+    carnet: '2026-TG-004',
+    nombres: 'Christian Omar',
+    apellidos: 'López Argueta',
+    fecha_nacimiento: ISODate('2005-06-15T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'christian.lopez@alumno.edu.sv',
+    telefono: '7255-7788',
+    direccion: {
+      departamento: 'Morazán',
+      municipio: 'Jocoaitique',
+      detalle: 'Barrio El Centro'
+    },
+    carrera_codigo: 'TGAS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bae'),
+    carnet: '2026-TG-005',
+    nombres: 'Daniela Maria',
+    apellidos: 'Cardona Merino',
+    fecha_nacimiento: ISODate('2006-03-20T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'daniela.cardona@alumno.edu.sv',
+    telefono: '7966-8899',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'Moncagua',
+      detalle: 'Colonia El Tanque'
+    },
+    carrera_codigo: 'TGAS',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7baf'),
+    carnet: '2026-LA-001',
+    nombres: 'Rodrigo René',
+    apellidos: 'Castillo Amaya',
+    fecha_nacimiento: ISODate('2004-07-11T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'rodrigo.castillo@alumno.edu.sv',
+    telefono: '7377-9900',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'Pasaquina',
+      detalle: 'Frontera El Amatillo, Calle Principal'
+    },
+    carrera_codigo: 'ILA',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb0'),
+    carnet: '2026-LA-002',
+    nombres: 'Andrea Montserrat',
+    apellidos: 'Pineda Ortiz',
+    fecha_nacimiento: ISODate('2005-01-29T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'andrea.pineda@alumno.edu.sv',
+    telefono: '7488-0011',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'San Miguel',
+      detalle: 'Urbanización La Pradera, Pasaje 4'
+    },
+    carrera_codigo: 'ILA',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb1'),
+    carnet: '2026-LA-003',
+    nombres: 'Jonathan Alexis',
+    apellidos: 'Guzmán Serrano',
+    fecha_nacimiento: ISODate('2004-10-05T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'jonathan.guzman@alumno.edu.sv',
+    telefono: '7699-1122',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'San Alejo',
+      detalle: 'Barrio El Cerrito'
+    },
+    carrera_codigo: 'ILA',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb2'),
+    carnet: '2026-LA-004',
+    nombres: 'Natalia Giselle',
+    apellidos: 'Escobar Solórzano',
+    fecha_nacimiento: ISODate('2005-09-17T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'natalia.escobar@alumno.edu.sv',
+    telefono: '7011-4455',
+    direccion: {
+      departamento: 'Usulután',
+      municipio: 'Santa Elena',
+      detalle: 'Barrio Parroquia'
+    },
+    carrera_codigo: 'ILA',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb3'),
+    carnet: '2026-LA-005',
+    nombres: 'Manuel Eduardo',
+    apellidos: 'Henríquez Lara',
+    fecha_nacimiento: ISODate('2004-05-24T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'manuel.henriquez@alumno.edu.sv',
+    telefono: '7522-5566',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'San Miguel',
+      detalle: 'Colonia El Sitio, Etapa 2'
+    },
+    carrera_codigo: 'ILA',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb4'),
+    carnet: '2026-TT-001',
+    nombres: 'Adriana Paola',
+    apellidos: 'Montalvo Cáceres',
+    fecha_nacimiento: ISODate('2006-04-02T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'adriana.montalvo@alumno.edu.sv',
+    telefono: '7133-6677',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'Conchagua',
+      detalle: 'Playa Las Tunas, Sector Hoteles'
+    },
+    carrera_codigo: 'TTUR',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb5'),
+    carnet: '2026-TT-002',
+    nombres: 'Gerardo Antonio',
+    apellidos: 'Torres Palacios',
+    fecha_nacimiento: ISODate('2005-12-12T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'genero.torres@alumno.edu.sv',
+    telefono: '7844-7788',
+    direccion: {
+      departamento: 'San Miguel',
+      municipio: 'San Miguel',
+      detalle: 'Colonia Kury, Pasaje Los Almendros'
+    },
+    carrera_codigo: 'TTUR',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb6'),
+    carnet: '2026-TT-003',
+    nombres: 'Elena Beatriz',
+    apellidos: 'Guevara Maravilla',
+    fecha_nacimiento: ISODate('2006-01-20T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'elena.guevara@alumno.edu.sv',
+    telefono: '7255-8899',
+    direccion: {
+      departamento: 'Morazán',
+      municipio: 'Perquín',
+      detalle: 'Caserío El Bailadero'
+    },
+    carrera_codigo: 'TTUR',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb7'),
+    carnet: '2026-TT-004',
+    nombres: 'Juan Carlos',
+    apellidos: 'Pinto Quintanilla',
+    fecha_nacimiento: ISODate('2005-08-08T00:00:00.000Z'),
+    genero: 'Masculino',
+    email: 'juan.pinto@alumno.edu.sv',
+    telefono: '7966-9900',
+    direccion: {
+      departamento: 'Usulután',
+      municipio: 'Alegria',
+      detalle: 'Barrio El Centro, cerca de la Laguna'
+    },
+    carrera_codigo: 'TTUR',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7bb8'),
+    carnet: '2026-TT-005',
+    nombres: 'Fatima Vanessa',
+    apellidos: 'Paz Coreas',
+    fecha_nacimiento: ISODate('2006-06-11T00:00:00.000Z'),
+    genero: 'Femenino',
+    email: 'fatima.paz@alumno.edu.sv',
+    telefono: '7377-0011',
+    direccion: {
+      departamento: 'La Unión',
+      municipio: 'Meanguera del Golfo',
+      detalle: 'Isla Meanguera, Sector El Muelle'
+    },
+    carrera_codigo: 'TTUR',
+    ciclo_ingreso: 'I-2026',
+    materias_aprobadas: [],
+    activo: true
+  }
+]

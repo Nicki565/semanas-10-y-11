@@ -1,0 +1,42 @@
+[
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b7f'),
+    nombre: 'Técnico en Ingeniería de Desarrollo de Software',
+    codigo: 'TIDS',
+    duracion_anios: NumberInt('2'),
+    modalidad: 'Presencial',
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b80'),
+    nombre: 'Ingeniería en Desarrollo de Software',
+    codigo: 'IDS',
+    duracion_anios: NumberInt('4'),
+    modalidad: 'Semipresencial',
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b92'),
+    nombre: 'Técnico en Gastronomía',
+    codigo: 'TGAS',
+    duracion_anios: NumberInt('2'),
+    modalidad: 'Presencial',
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b93'),
+    nombre: 'Ingeniería en Logística y Aduanas',
+    codigo: 'ILA',
+    duracion_anios: NumberInt('5'),
+    modalidad: 'Semipresencial',
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b94'),
+    nombre: 'Técnico en Turismo',
+    codigo: 'TTUR',
+    duracion_anios: NumberInt('2'),
+    modalidad: 'Presencial',
+    activo: true
+  }
+]

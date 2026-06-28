@@ -1,0 +1,170 @@
+[
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b8e'),
+    codigo_evaluacion: 'EV-MDB101-001',
+    carnet_estudiante: '2026-DS-001',
+    nota: Double('8.5'),
+    observacion: 'Buen desempeño',
+    fecha_registro: ISODate('2026-02-20T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b8f'),
+    codigo_evaluacion: 'EV-MDB101-001',
+    carnet_estudiante: '2026-DS-002',
+    nota: Double('7.8'),
+    observacion: 'Debe reforzar consultas',
+    fecha_registro: ISODate('2026-02-20T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b90'),
+    codigo_evaluacion: 'EV-MDB101-002',
+    carnet_estudiante: '2026-DS-001',
+    nota: NumberInt('9'),
+    observacion: 'Excelente estructura del modelo',
+    fecha_registro: ISODate('2026-03-15T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b91'),
+    codigo_evaluacion: 'EV-MDB101-002',
+    carnet_estudiante: '2026-DS-002',
+    nota: Double('8.2'),
+    observacion: 'Buen trabajo',
+    fecha_registro: ISODate('2026-03-15T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee846'),
+    codigo_evaluacion: 'EV-ADS301-001',
+    carnet_estudiante: '2026-DS-003',
+    nota: Double('8.7'),
+    observacion: 'Buen análisis de requerimientos',
+    fecha_registro: ISODate('2026-08-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee847'),
+    codigo_evaluacion: 'EV-ADS301-001',
+    carnet_estudiante: '2026-DS-004',
+    nota: Double('9.1'),
+    observacion: 'Excelente dominio conceptual',
+    fecha_registro: ISODate('2026-08-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee848'),
+    codigo_evaluacion: 'EV-ADS301-001',
+    carnet_estudiante: '2026-ID-004',
+    nota: Double('7.9'),
+    observacion: 'Debe reforzar modelado UML',
+    fecha_registro: ISODate('2026-08-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee849'),
+    codigo_evaluacion: 'EV-ADS301-002',
+    carnet_estudiante: '2026-DS-003',
+    nota: Double('8.4'),
+    observacion: 'Buen avance en diagramación',
+    fecha_registro: ISODate('2026-09-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee84a'),
+    codigo_evaluacion: 'EV-ADS301-002',
+    carnet_estudiante: '2026-DS-004',
+    nota: Double('9.3'),
+    observacion: 'Excelente estructuración',
+    fecha_registro: ISODate('2026-09-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee84b'),
+    codigo_evaluacion: 'EV-ADS301-002',
+    carnet_estudiante: '2026-ID-004',
+    nota: Double('8.1'),
+    observacion: 'Mejoró respecto al parcial anterior',
+    fecha_registro: ISODate('2026-09-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee84c'),
+    codigo_evaluacion: 'EV-ADS301-003',
+    carnet_estudiante: '2026-DS-003',
+    nota: NumberInt('9'),
+    observacion: 'Proyecto bien documentado',
+    fecha_registro: ISODate('2026-10-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee84d'),
+    codigo_evaluacion: 'EV-ADS301-003',
+    carnet_estudiante: '2026-DS-004',
+    nota: Double('9.5'),
+    observacion: 'Excelente propuesta',
+    fecha_registro: ISODate('2026-10-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee84e'),
+    codigo_evaluacion: 'EV-ADS301-003',
+    carnet_estudiante: '2026-ID-004',
+    nota: Double('8.6'),
+    observacion: 'Buen proyecto',
+    fecha_registro: ISODate('2026-10-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee84f'),
+    codigo_evaluacion: 'EV-PRW201-003',
+    carnet_estudiante: '2026-DS-005',
+    nota: Double('8.9'),
+    observacion: 'Buen manejo web',
+    fecha_registro: ISODate('2026-08-05T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee850'),
+    codigo_evaluacion: 'EV-PRW201-003',
+    carnet_estudiante: '2026-ID-003',
+    nota: Double('8.2'),
+    observacion: 'Debe reforzar validaciones',
+    fecha_registro: ISODate('2026-08-05T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee851'),
+    codigo_evaluacion: 'EV-PRW201-004',
+    carnet_estudiante: '2026-DS-005',
+    nota: NumberInt('9'),
+    observacion: 'Buen desarrollo',
+    fecha_registro: ISODate('2026-09-05T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee852'),
+    codigo_evaluacion: 'EV-PRW201-004',
+    carnet_estudiante: '2026-ID-003',
+    nota: Double('8.5'),
+    observacion: 'Mejoró en lógica',
+    fecha_registro: ISODate('2026-09-05T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee853'),
+    codigo_evaluacion: 'EV-PRW201-005',
+    carnet_estudiante: '2026-DS-005',
+    nota: Double('9.3'),
+    observacion: 'Excelente práctica',
+    fecha_registro: ISODate('2026-09-20T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee854'),
+    codigo_evaluacion: 'EV-PRW201-005',
+    carnet_estudiante: '2026-ID-003',
+    nota: Double('8.7'),
+    observacion: 'Buen trabajo',
+    fecha_registro: ISODate('2026-09-20T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee855'),
+    codigo_evaluacion: 'EV-PRW201-006',
+    carnet_estudiante: '2026-DS-005',
+    nota: Double('9.4'),
+    observacion: 'Proyecto funcional',
+    fecha_registro: ISODate('2026-10-10T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee856'),
+    codigo_evaluacion: 'EV-PRW201-006',
+    carnet_estudiante: '2026-ID-003',
+    nota: Double('8.8'),
+    observacion: 'Buen proyecto',
+    fecha_registro: ISODate('2026-10-10T00:00:00.000Z')
+  }
+]

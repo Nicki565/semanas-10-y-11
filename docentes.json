@@ -1,0 +1,79 @@
+[
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b81'),
+    nombres: 'Carlos Alberto',
+    apellidos: 'Ramírez López',
+    dui: '12345678-9',
+    email: 'carlos.ramirez@institucion.edu.sv',
+    telefono: '7123-4567',
+    especialidad: 'Bases de Datos',
+    fecha_contratacion: ISODate('2023-01-15T00:00:00.000Z'),
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b82'),
+    nombres: 'Ana Lucía',
+    apellidos: 'Martínez Gómez',
+    dui: '98765432-1',
+    email: 'ana.martinez@institucion.edu.sv',
+    telefono: '7234-5678',
+    especialidad: 'Programación Web',
+    fecha_contratacion: ISODate('2022-08-10T00:00:00.000Z'),
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b9b'),
+    nombres: 'Luis Fernando',
+    apellidos: 'Méndez Castillo',
+    dui: '11223344-5',
+    email: 'luis.mendez@institucion.edu.sv',
+    telefono: '7001-2233',
+    especialidad: 'Gastronomía',
+    fecha_contratacion: ISODate('2023-02-10T00:00:00.000Z'),
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b9c'),
+    nombres: 'Patricia Elena',
+    apellidos: 'López Herrera',
+    dui: '22334455-6',
+    email: 'patricia.lopez@institucion.edu.sv',
+    telefono: '7112-3344',
+    especialidad: 'Turismo',
+    fecha_contratacion: ISODate('2022-09-15T00:00:00.000Z'),
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b9d'),
+    nombres: 'Jorge Armando',
+    apellidos: 'Pérez Gómez',
+    dui: '33445566-7',
+    email: 'jorge.perez@institucion.edu.sv',
+    telefono: '7223-4455',
+    especialidad: 'Logística',
+    fecha_contratacion: ISODate('2021-06-20T00:00:00.000Z'),
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b9e'),
+    nombres: 'Karla Sofía',
+    apellidos: 'Rivera Martínez',
+    dui: '44556677-8',
+    email: 'karla.rivera@institucion.edu.sv',
+    telefono: '7334-5566',
+    especialidad: 'Aduanas',
+    fecha_contratacion: ISODate('2024-01-05T00:00:00.000Z'),
+    activo: true
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b9f'),
+    nombres: 'Mario Andrés',
+    apellidos: 'Castillo Vega',
+    dui: '55667788-9',
+    email: 'mario.castillo@institucion.edu.sv',
+    telefono: '7445-6677',
+    especialidad: 'Gestión Empresarial',
+    fecha_contratacion: ISODate('2020-03-12T00:00:00.000Z'),
+    activo: true
+  }
+]

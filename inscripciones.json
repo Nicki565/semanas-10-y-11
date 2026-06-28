@@ -1,0 +1,51 @@
+[
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b8a'),
+    carnet_estudiante: '2026-DS-001',
+    codigo_grupo: 'MDB101-G01',
+    fecha_inscripcion: ISODate('2026-01-20T00:00:00.000Z'),
+    estado: 'Inscrito'
+  },
+  {
+    _id: ObjectId('6a1145f15849e03c2abf7b8b'),
+    carnet_estudiante: '2026-DS-002',
+    codigo_grupo: 'MDB101-G01',
+    fecha_inscripcion: ISODate('2026-01-21T00:00:00.000Z'),
+    estado: 'Inscrito'
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee837'),
+    carnet_estudiante: '2026-DS-003',
+    codigo_grupo: 'ADS301-G01',
+    fecha_inscripcion: ISODate('2026-07-10T00:00:00.000Z'),
+    estado: 'Inscrito'
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee838'),
+    carnet_estudiante: '2026-DS-004',
+    codigo_grupo: 'ADS301-G01',
+    fecha_inscripcion: ISODate('2026-07-11T00:00:00.000Z'),
+    estado: 'Inscrito'
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee839'),
+    carnet_estudiante: '2026-DS-005',
+    codigo_grupo: 'PRW201-G02',
+    fecha_inscripcion: ISODate('2026-07-12T00:00:00.000Z'),
+    estado: 'Inscrito'
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee83a'),
+    carnet_estudiante: '2026-ID-003',
+    codigo_grupo: 'PRW201-G02',
+    fecha_inscripcion: ISODate('2026-07-13T00:00:00.000Z'),
+    estado: 'Inscrito'
+  },
+  {
+    _id: ObjectId('6a1e95db3ab91e9cc1eee83b'),
+    carnet_estudiante: '2026-ID-004',
+    codigo_grupo: 'ADS301-G01',
+    fecha_inscripcion: ISODate('2026-07-14T00:00:00.000Z'),
+    estado: 'Inscrito'
+  }
+]
